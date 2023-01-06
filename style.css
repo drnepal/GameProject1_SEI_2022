@@ -1,5 +1,10 @@
 .grid {
-  display: grid;
-  width: 400px;
-  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 650px;
+  height: 500px;
+  margin:100px 150px;
 }
+/* body{
+  background-color: red;
+} */
