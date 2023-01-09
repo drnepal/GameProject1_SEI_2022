@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  //card options
+  //card options array of obects
   const cardArray = [
     {
       name: 'diamond-1',
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.textContent = 'Congratulations! You found them all!'
+      resultDisplay.textContent = 'Congratulations!'
     }
   }
 
@@ -115,3 +115,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   createBoard()
 })
+function resetGame() {
+  window.location.reload();
+}
+
+
