@@ -12,14 +12,16 @@
 
  Functionality of the game.
 
- As a user I want to be to start the game.
- As a user I want to be able to resetthe game.
- Know my score
+ As a user I want to be to start the game.<br>
+ As a user I want to be able to resetthe game.<br>
+ Know my score<br>
  I want to  know how to win.
 
 ![Alt text](images/Screenshot%202023-01-08%20at%209.00.36%20PM.png)
  
 ![Alt text](images/Screenshot%202023-01-08%20at%209.01.03%20PM.png)
+
+https://drnepal.github.io/GameProject1_SEI_2022/
 
 
 
