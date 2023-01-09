@@ -2,9 +2,22 @@
   display: flex;
   flex-wrap: wrap;
   max-width: 650px;
-  height: 500px;
-  margin:100px 150px;
+  height: 550px;
+  margin:50px;
+  border: 5px solid lightcoral;
+  padding: 10px;
+  align-items:flex-start;
+  background-color: aquamarine;
 }
+
+/* #resetButton {
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+} */
 /* body{
   background-color: red;
 } */
