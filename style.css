@@ -1,13 +1,15 @@
 .grid {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
-  max-width: 650px;
-  height: 550px;
-  margin:50px;
-  border: 5px solid lightcoral;
-  padding: 10px;
-  align-items:flex-start;
   background-color: aquamarine;
+  max-width: 600px;
+  height: 500px;
+  margin-left:150px;
+  margin-top:px;
+  border: 1px salmon solid;
+  padding: auto;
+  
 }
 
 /* #resetButton {
