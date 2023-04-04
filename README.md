@@ -23,4 +23,4 @@
 
 
 
-http://127.0.0.1:5502/index.html
+https://drnepal.github.io/GameProject1_SEI_2022/
